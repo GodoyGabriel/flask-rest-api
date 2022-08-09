@@ -1,4 +1,4 @@
-# REST API con Python, Flask y PostgreSQL
+# REST API with Python, Flask y PostgreSQL
 
 <hr/>
 
