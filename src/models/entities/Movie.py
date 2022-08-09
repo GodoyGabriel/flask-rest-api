@@ -13,5 +13,5 @@ class Movie():
             'id': self.id,
             'title': self.title,
             'duration': self.duration,
-            'releasing': DateFormat.convert_date(self.released)
+            'released': DateFormat.convert_date(self.released)
         }
